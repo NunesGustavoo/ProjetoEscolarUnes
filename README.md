@@ -15,6 +15,10 @@ Este projeto consiste em uma página web que apresenta informações sobre uma f
 
 - **HTML5**: Para a estruturação do conteúdo.
 
+## Preview
+
+- https://nunesgustavoo.github.io/ProjetoEscolarUnes/
+
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
